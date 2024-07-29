@@ -1,0 +1,2 @@
+username = "" # Your username
+password = "" # Your password
